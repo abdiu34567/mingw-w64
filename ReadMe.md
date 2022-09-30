@@ -31,4 +31,6 @@ g++ --version
 gdb --version
 ```
 
+![Example](cpp.png)
+
 ### Create Hello World [Application](https://code.visualstudio.com/docs/cpp/config-mingw#_create-hello-world)
