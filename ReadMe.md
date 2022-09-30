@@ -31,4 +31,4 @@ g++ --version
 gdb --version
 ```
 
-> For More [check](https://code.visualstudio.com/docs/cpp/config-mingw)
+### Create Hello World [Application](https://code.visualstudio.com/docs/cpp/config-mingw#_create-hello-world)
